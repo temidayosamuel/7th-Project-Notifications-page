@@ -1,0 +1,201 @@
+.alltogether {
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 60%;
+  padding: 1px;
+}
+
+.card__div {
+  width: 700px;
+  border: 0;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.h1__div {
+  border: 0;
+  border-radius: 5px;
+  background-color: hsl(219, 85%, 26%);
+  width: 50px;
+  height: 30px;
+  margin-top: 10px;
+  text-align: center;
+  color: #fff;
+  display: inline-block;
+  font-size: 30px;
+  padding-bottom: 5px;
+}
+
+.avatar--1div {
+  width: 50px;
+  height: 50px;
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.avatar--1 {
+  background-color: hsl(210, 60%, 98%);
+  border: 0;
+  border-radius: 16px;
+  color: hsl(219, 14%, 63%);
+  width: 650px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  margin-left: 25px;
+}
+
+.avatar--wrap1 {
+  display: flex;
+}
+
+.mark--p {
+  margin-left: 5px;
+  font-family: "Plus Jakarta Sans";
+}
+
+.avatar--2 {
+  background-color: hsl(210, 60%, 98%);
+  border: 0;
+  border-radius: 16px;
+  color: hsl(219, 14%, 63%);
+  width: 650px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  margin-left: 25px;
+}
+
+.avatar--3 {
+  background-color: hsl(210, 60%, 98%);
+  border: 0;
+  border-radius: 16px;
+  color: hsl(219, 14%, 63%);
+  width: 650px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  margin-left: 25px;
+}
+
+.avatar--4 {
+  border: 0;
+  border-radius: 5px;
+  color: hsl(219, 14%, 63%);
+  width: 650px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  margin-left: 25px;
+}
+
+.webber--span {
+  color: hsl(224, 21%, 14%);
+  font-size: 16px;
+  font-weight: 800;
+  font-family: "Plus Jakarta Sans";
+  margin-right: 10px;
+}
+
+.tournament--span {
+  font-weight: 800;
+  color: hsl(219, 12%, 42%);
+}
+
+.m1--span {
+  display: block;
+}
+
+.chess--group {
+  color: hsl(219, 85%, 26%);
+  font-size: 16px;
+  font-weight: 800;
+  font-family: "Plus Jakarta Sans";
+  margin-right: 10px;
+}
+
+.avatar--5 {
+  border: 100px;
+  border-radius: 5px;
+  color: hsl(219, 12%, 42%);
+  background-color: hsl(211, 68%, 94%);
+  width: 450px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  margin-left: 70px;
+  font-size: 13px;
+  font-size: 16px;
+}
+
+.avatar--wrap5 {
+  display: flex;
+}
+
+.mark--p5 {
+  margin-left: 5px;
+  font-family: "Plus Jakarta Sans";
+}
+
+.avatar--6 {
+  border: 0;
+  border-radius: 5px;
+  color: hsl(219, 14%, 63%);
+  width: 650px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  margin-left: 25px;
+}
+
+.image--chess {
+  width: 30px;
+}
+
+.commented--span {
+  margin-right: 200px;
+}
+
+.avatar--7 {
+  border: 0;
+  border-radius: 5px;
+  color: hsl(219, 14%, 63%);
+  width: 650px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  margin-left: 25px;
+}
+
+.avatar--8 {
+  border: 0;
+  border-radius: 5px;
+  color: hsl(219, 14%, 63%);
+  width: 650px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  margin-left: 25px;
+}
+
+.notify_-h1 {
+  font-family: "Plus Jakarta Sans";
+  font-weight: 800;
+}
+
+.h1__mark {
+  font-family: "Plus Jakarta Sans";
+  font-weight: 500;
+  color: hsl(219, 85%, 26%);
+  text-align: right;
+  margin-top: 40px;
+  margin-left: 300px;
+}
+
+.h1__divtogether {
+  display: flex;
+}
